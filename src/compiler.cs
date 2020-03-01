@@ -6,7 +6,7 @@ class MainClass {
    static string fileName = "index.spp";
    static string[] fileNameArr = fileName.Split(".");
    static string program_string = System.IO.File.ReadAllText(fileName);
-   static string[] = program_string.Split(';');
+   static string[] program = program_string.Split(';');
 
   public static void Main (string[] args) {
 
