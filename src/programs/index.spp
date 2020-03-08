@@ -1,0 +1,2 @@
+define string language = "simplo++"
+;echo language
