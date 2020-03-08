@@ -30,7 +30,7 @@ Then use this command:
 ```
 clang index.c
 ```
-then use this:
+then use this command:
 ```
 ./a.out
 ```
