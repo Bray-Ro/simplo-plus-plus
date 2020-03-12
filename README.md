@@ -1,7 +1,7 @@
 # simplo++
 A new programming language that is based on simplo but compiles into C. Written in c#
 # documentation
-# downloading and setup
+# downloading and setup for pretty much all systems
 To set up simplo++ first please download this repo and unzip it. Then you must download the following things:
 . Mono c# compiler
 .clang C compiler
@@ -38,4 +38,6 @@ If you did everything right then you should get this output in the terminal:
 ```
 hello world
 ```
+# download and setup for just macOS
+This is just an easier setup for macOS that is still under development
 # errors in the simplo++ compiler may happen
